@@ -1,7 +1,6 @@
 # Morante Quiz
+Versión pública del juego.
 
-Trivial público sobre Morante de la Puebla.
-
-Incluye preguntas de plazas, fechas, toros, ganaderías, resultados, trajes, prensa e historial taurino.
-
-Para GitHub Pages, publica la rama `main` desde `/ (root)`.
+- Sin preguntas de valoración de prensa.
+- Sin referencias visibles a “Archivo Morante”, “guía” o “recopilación”.
+- Preguntas formuladas directamente sobre fechas, plazas, ganaderías, toros, resultados, trajes y festejos.
